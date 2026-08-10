@@ -7,6 +7,7 @@
 | 文档 | 内容 | 日期 |
 |------|------|------|
 | [VLM_VLA_WorldModel_Notes.md](VLM_VLA_WorldModel_Notes.md) | 具身智能三基石：VLM、VLA 与世界模型的概念、关系与学习路线 | 2026-08-10 |
+| [VLA_WorldModel_Study_Plan.md](VLA_WorldModel_Study_Plan.md) | 12 个月学习计划：五阶段路线、每周任务、资源清单与决策节点 | 2026-08-10 |
 
 ## 计划
 
