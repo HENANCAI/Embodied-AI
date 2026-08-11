@@ -10,6 +10,7 @@
 | [VLA_WorldModel_Study_Plan.md](VLA_WorldModel_Study_Plan.md) | 12 个月学习计划：五阶段路线、每周任务、资源清单与决策节点 | 2026-08-10 |
 | [references/](references/) | 参考文献库：论文 PDF 归档与索引 | 2026-08-10 |
 | [reading-notes/](reading-notes/) | 文献阅读笔记：论文精读笔记与索引 | 2026-08-10 |
+| [surveys/](surveys/) | 主题调研笔记：AI 前沿主题的系统性调研 | 2026-08-11 |
 
 ## 计划
 
