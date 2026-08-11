@@ -8,6 +8,12 @@
 |------|------|------|
 | Ha & Schmidhuber, *World Models*, 2018 | [World Models_ha_arXiv_2018.pdf](World%20Models_ha_arXiv_2018.pdf) | 世界模型开山之作，公认必读 |
 
+## 类脑模型
+
+| 文献 | 文件 | 说明 |
+|------|------|------|
+| Guo et al., *A Brain-inspired Embodied Intelligence for Fluid and Fast Reflexive Robotics Control* (NeuroVLA), 2026 | [A Brain-inspired Embodied Intelligence for Fluid and Fast.pdf](A%20Brain-inspired%20Embodied%20Intelligence%20for%20Fluid%20and%20Fast.pdf) | 首个部署到真实机器人的神经形态 VLA（皮层-小脑-脊髓三级架构）|
+
 ## 感知（触觉多模态）
 
 | 文献 | 文件 | 说明 |
