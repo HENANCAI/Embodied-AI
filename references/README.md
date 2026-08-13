@@ -7,6 +7,7 @@
 | 文献 | 文件 | 说明 |
 |------|------|------|
 | Ha & Schmidhuber, *World Models*, 2018 | [World Models_ha_arXiv_2018.pdf](World%20Models_ha_arXiv_2018.pdf) | 世界模型开山之作，公认必读 |
+| NVIDIA, *Cosmos World Foundation Model Platform for Physical AI*, 2025 | [Cosmos World Foundation Model Platform for Physical AI.pdf](Cosmos%20World%20Foundation%20Model%20Platform%20for%20Physical%20AI.pdf) | 世界基础模型工业平台：策展/Tokenizer/双路线预训练/后训练/护栏 |
 
 ## 类脑模型
 
