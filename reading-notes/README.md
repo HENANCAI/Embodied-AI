@@ -10,6 +10,6 @@
 | Cao et al., *Tactile-based Multimodal Fusion Survey*, 2026 | [tactile-multimodal-fusion-survey-2026.md](tactile-multimodal-fusion-survey-2026.md) | [Tactile-based Multimodal Fusion in Embodied.pdf](../references/Tactile-based%20Multimodal%20Fusion%20in%20Embodied.pdf) | 2026-08-11 |
 | Guo et al., *NeuroVLA: Brain-inspired Embodied Intelligence*, 2026 | [neurovla-brain-inspired-vla-2026.md](neurovla-brain-inspired-vla-2026.md) | [A Brain-inspired Embodied Intelligence for Fluid and Fast.pdf](../references/A%20Brain-inspired%20Embodied%20Intelligence%20for%20Fluid%20and%20Fast.pdf) | 2026-08-11 |
 | NVIDIA, *Cosmos World Foundation Model Platform for Physical AI*, 2025 | [cosmos-wfm-nvidia-2025.md](cosmos-wfm-nvidia-2025.md) | [Cosmos World Foundation Model Platform for Physical AI.pdf](../references/Cosmos%20World%20Foundation%20Model%20Platform%20for%20Physical%20AI.pdf) | 2026-08-13 |
-| Lipman et al., *Flow Matching for Generative Modeling*, 2023 | [flow-matching-lipman-2023.md](flow-matching-lipman-2023.md) | arXiv:2210.02747v2（本地文献库） | 2026-08-14 |
+| Lipman et al., *Flow Matching for Generative Modeling*, 2023 | [flow-matching-lipman-2023.md](flow-matching-lipman-2023.md) | [FLOW MATCHING FOR GENERATIVE MODELING.pdf](../references/FLOW%20MATCHING%20FOR%20GENERATIVE%20MODELING.pdf) | 2026-08-14 |
 
 > 更多笔记陆续补充中。
