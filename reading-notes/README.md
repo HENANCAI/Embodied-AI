@@ -11,6 +11,6 @@
 | Guo et al., *NeuroVLA: Brain-inspired Embodied Intelligence*, 2026 | [neurovla-brain-inspired-vla-2026.md](neurovla-brain-inspired-vla-2026.md) | [A Brain-inspired Embodied Intelligence for Fluid and Fast.pdf](../references/A%20Brain-inspired%20Embodied%20Intelligence%20for%20Fluid%20and%20Fast.pdf) | 2026-08-11 |
 | NVIDIA, *Cosmos World Foundation Model Platform for Physical AI*, 2025 | [cosmos-wfm-nvidia-2025.md](cosmos-wfm-nvidia-2025.md) | [Cosmos World Foundation Model Platform for Physical AI.pdf](../references/Cosmos%20World%20Foundation%20Model%20Platform%20for%20Physical%20AI.pdf) | 2026-08-13 |
 | Lipman et al., *Flow Matching for Generative Modeling*, 2023 | [flow-matching-lipman-2023.md](flow-matching-lipman-2023.md) | [FLOW MATCHING FOR GENERATIVE MODELING.pdf](../references/FLOW%20MATCHING%20FOR%20GENERATIVE%20MODELING.pdf) | 2026-08-14 |
-| Huang et al., *RynnValue: Scaling Robotic Value Foundation Models*, 2026 | [rynnvalue-huang-2026.md](rynnvalue-huang-2026.md) | arXiv:2608.09853v1（本地文献库） | 2026-08-20 |
+| Huang et al., *RynnValue: Scaling Robotic Value Foundation Models*, 2026 | [rynnvalue-huang-2026.md](rynnvalue-huang-2026.md) | [RynnValue Scaling Robotic Value Foundation.pdf](../references/RynnValue%20Scaling%20Robotic%20Value%20Foundation.pdf) | 2026-08-20 |
 
 > 更多笔记陆续补充中。

@@ -22,4 +22,10 @@
 |------|------|------|
 | Cao et al., *Tactile-based Multimodal Fusion in Embodied Intelligence: A Survey*, 2026 | [Tactile-based Multimodal Fusion in Embodied.pdf](Tactile-based%20Multimodal%20Fusion%20in%20Embodied.pdf) | 触觉×视觉×语言融合的系统性综述（数据/方法/传感器三维分类法） |
 
+## 强化学习（奖励/价值模型）
+
+| 文献 | 文件 | 说明 |
+|------|------|------|
+| Huang et al., *RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance*, 2026 | [RynnValue Scaling Robotic Value Foundation.pdf](RynnValue%20Scaling%20Robotic%20Value%20Foundation.pdf) | 价值基础模型：时间距离取代偏好/进度，反捷径三件套 |
+
 > 更多文献陆续补充中。
