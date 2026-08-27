@@ -12,5 +12,6 @@
 | NVIDIA, *Cosmos World Foundation Model Platform for Physical AI*, 2025 | [cosmos-wfm-nvidia-2025.md](cosmos-wfm-nvidia-2025.md) | [Cosmos World Foundation Model Platform for Physical AI.pdf](../references/Cosmos%20World%20Foundation%20Model%20Platform%20for%20Physical%20AI.pdf) | 2026-08-13 |
 | Lipman et al., *Flow Matching for Generative Modeling*, 2023 | [flow-matching-lipman-2023.md](flow-matching-lipman-2023.md) | [FLOW MATCHING FOR GENERATIVE MODELING.pdf](../references/FLOW%20MATCHING%20FOR%20GENERATIVE%20MODELING.pdf) | 2026-08-14 |
 | Huang et al., *RynnValue: Scaling Robotic Value Foundation Models*, 2026 | [rynnvalue-huang-2026.md](rynnvalue-huang-2026.md) | [RynnValue Scaling Robotic Value Foundation.pdf](../references/RynnValue%20Scaling%20Robotic%20Value%20Foundation.pdf) | 2026-08-20 |
+| Iwasaki et al., *Unsupervised sensory-motor associative learning by human brain explant*, 2026 | [brain-explant-robot-imitation-2026.md](brain-explant-robot-imitation-2026.md) | Research Square preprint（本地文献库） | 2026-08-27 |
 
 > 更多笔记陆续补充中。
