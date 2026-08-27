@@ -15,6 +15,7 @@
 | 文献 | 文件 | 说明 |
 |------|------|------|
 | Guo et al., *A Brain-inspired Embodied Intelligence for Fluid and Fast Reflexive Robotics Control* (NeuroVLA), 2026 | [A Brain-inspired Embodied Intelligence for Fluid and Fast.pdf](A%20Brain-inspired%20Embodied%20Intelligence%20for%20Fluid%20and%20Fast.pdf) | 首个部署到真实机器人的神经形态 VLA（皮层-小脑-脊髓三级架构）|
+| Iwasaki et al., *Unsupervised sensory-motor associative learning by human brain explant in-a-dish enables movement imitation by robot*, 2026 | [Unsupervised sensory-motor associative learning.pdf](Unsupervised%20sensory-motor%20associative%20learning.pdf) | 脑切片（OPAB）闭环无监督学习驱动钢琴机器人：双向可塑性 + motor babbling |
 
 ## 感知（触觉多模态）
 
